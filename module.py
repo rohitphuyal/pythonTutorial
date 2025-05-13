@@ -20,3 +20,5 @@ def mul(a,b):
 #others cannot import or access this file if the below code is written
 if __name__ =="__main__":
     print("This is calculator")
+
+print("hello")
