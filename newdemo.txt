@@ -1,0 +1,3 @@
+Hello! Welcome to newdemo.txt
+This file is for tested.
+Bad Luck!
